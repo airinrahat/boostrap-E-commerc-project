@@ -9,7 +9,7 @@ html{
    height: 50px;
 }
 .navbar-toggler-icon{
-   background-image: url(menu.png);
+   background-image: url("menu.png");
 }
 /* landing section */
 #home{
